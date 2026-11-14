@@ -1,0 +1,6 @@
+Jupyter
+python
+pandas
+numpy
+scipy
+statsmodel.api
